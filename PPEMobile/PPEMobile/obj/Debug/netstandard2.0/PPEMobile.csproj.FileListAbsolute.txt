@@ -1,0 +1,16 @@
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\bin\Debug\netstandard2.0\PPEMobile.deps.json
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\bin\Debug\netstandard2.0\PPEMobile.dll
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\bin\Debug\netstandard2.0\ref\PPEMobile.dll
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\bin\Debug\netstandard2.0\PPEMobile.pdb
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\PPEMobile.AssemblyInfoInputs.cache
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\PPEMobile.AssemblyInfo.cs
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\PPEMobile.dll
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\ref\PPEMobile.dll
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\PPEMobile.pdb
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\ScannerPage.xaml.g.cs
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\PPEMobile.csprojAssemblyReference.cache
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\Page\SignInPage.xaml.g.cs
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\Page\SignUpPage.xaml.g.cs
+D:\PPEMobile1\PPEMobile\PPEMobile\PPEMobile\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundImageSource="background.png"
+             x:Class="PPEMobile.Page.SignInPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <StackLayout Grid.Row="1" Margin="40,150,40,140" HeightRequest="900" WidthRequest="200" Spacing="40" >
+                <Label Text="Connexion" FontSize="Large" TextColor="White" HorizontalOptions="Center"/>
+                <Entry Placeholder="Email" TextColor="White" PlaceholderColor="#3736FF" x:Name="EntEmail"/>
+                <Entry Placeholder="Password" PlaceholderColor="#3736FF" x:Name="EnterPassword" IsPassword="True" TextColor="White"/>
+                <Button Text="Login" BackgroundColor="#7036FF" TextColor="white" x:Name="BtnLogin" Clicked="BtnLogin_Clicked"></Button>
+            </StackLayout>
+            <StackLayout Grid.Row="2" Padding="20" Orientation="Horizontal" HorizontalOptions="Center">
+                <Label TextColor="White" Text="Don't Have an account ?"/>
+                <StackLayout Spacing="0">
+                    <Label Text="Sign Up" FontAttributes="Bold" TextColor="#3736FF"/>
+                    <BoxView BackgroundColor="Black" HeightRequest="1"/>
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer x:Name="TapsignUp" NumberOfTapsRequired="1" Tapped="SignUp"></TapGestureRecognizer>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>
